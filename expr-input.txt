@@ -1,0 +1,5 @@
+a = 5
+input b
+
+c = a * 6 - b
+if <a == b> print a

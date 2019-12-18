@@ -1,0 +1,15 @@
+string
+word
+power
+mac
+delete
+find
+super
+red
+velvet
+high
+low
+crap
+night
+today
+midnight
