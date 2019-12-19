@@ -22,6 +22,7 @@
    명시적인 타입이 주어져야 함
    
    널 타입 불가능
+   
 ![Alt text](./Image/example2.png)
 
 
